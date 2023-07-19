@@ -1,4 +1,4 @@
-[![MasterHead]([https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png](https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg))]()
+[![MasterHead](https://www.classicinformatics.com/hubfs/full-stack%20developer.png)]()
 <h1 align="center">Hi 👋, I'm Abdallah Abdourahman</h1>
 <h3 align="center">A passionate Full Stack Developer from Somalia</h3>
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
