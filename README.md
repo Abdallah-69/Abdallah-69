@@ -1,7 +1,7 @@
 [![MasterHead](https://www.classicinformatics.com/hubfs/full-stack%20developer.png)]()
 <h1 align="center">Hi 👋, I'm Abdallah Abdourahman</h1>
 <h3 align="center">A passionate Full Stack Developer from Somalia</h3>
-<img align="right-center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right-center" alt="Coding" width="500" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallah-69&label=Profile%20views&color=0e75b6&style=flat" alt="abdallah-69" /> </p>
 
