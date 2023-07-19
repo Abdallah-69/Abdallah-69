@@ -1,7 +1,7 @@
 [![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png)]()
 <h1 align="center">Hi 👋, I'm Abdallah Abdourahman</h1>
 <h3 align="center">A passionate Full Stack Developer from Somalia</h3>
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallah-69&label=Profile%20views&color=0e75b6&style=flat" alt="abdallah-69" /> </p>
 
